@@ -1,0 +1,35 @@
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Libraries As Research Partner In Digital Humanities
+tagline:          'UCLA'
+description:      'DH 2019 Pre-conference, Utrecht'
+url:
+baseurl:          /dh2019-preconference/
+
+author:
+  name:           'Dawn Childress'
+  url:
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/adholibdh/dh2019-preconference
+
+defaultlang:      eng
+
+t:
+  English:
+    title:        'Libraries As Research Partner In Digital Humanities'
+    description:  'DH 2019 Pre-conference, Utrecht'
+  Español:
+    title:
+    description:
