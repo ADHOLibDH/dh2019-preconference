@@ -108,6 +108,13 @@ html {
 }
 
 /* Sidebar nav */
+
+.sidebar-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .sidebar-nav {
   margin-bottom: 1rem;
 }
