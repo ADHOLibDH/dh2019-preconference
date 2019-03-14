@@ -24,7 +24,7 @@ We invite short papers, lightning talks, panels, and interactive sessions on the
 
 **Panel sessions** allow panelists and participants to discuss a certain topic in more detail. Panels should consist of a maximum of 5 people and will be part of a parallel session. They can be either 60 or 90 minutes.
 
-In addition, we invite libraries and CHOs to present their work at a market place during the breaks. To participate, please send a short description of your organisation to lotte.wilms@kb.nl. All market place attendees will be asked to present their stand in a plenary lightning talk. Please note that space is limited.
+In addition,  we invite library and CHO-related organisations to present their work at a market place during the breaks.. To participate, please send a short description of your organisation to lotte.wilms@kb.nl. All market place attendees will be asked to present their stand in a plenary lightning talk. Please note that space is limited.
 
 ### Submission of proposals
 Submissions should include the following:
@@ -37,7 +37,7 @@ The pre-conference will be held off-site in the KB National Library of the Nethe
 
 The organisers are working to make this event virtually accessible via livestream, recording, and sharing of slides and other research materials. If accepted, the applicant agrees to deposit any slides used in the presentation. If the presentation is held in the main auditorium, the presenter will appear in a livestream. Should you prefer not to be filmed, please indicate this in your abstract.
 
-Please submit your proposal before the deadline via this form: http://bit.ly/dhlibcfp
+Please submit your proposal before the deadline via this form: [http://bit.ly/dhlibcfp](http://bit.ly/dhlibcfp)
 
 ### Timeline
 **Deadline proposals:** 01-05-2019 23:59 CET
