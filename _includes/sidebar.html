@@ -6,7 +6,11 @@
     </div>
 
     <div class="sidebar-about">
-      <h1>{{ site.t[page.lang].title }}</h1>
+      <h1>
+        <a href="{{ site.baseurl }}/{{ page.permalink }}">
+          {{ site.t[page.lang].title }}
+        </a>
+      </h1>
       <p class="lead">{{ site.t[page.lang].description }}</p>
     </div>
     <br/ >
