@@ -7,7 +7,7 @@
 
     <div class="sidebar-about">
       <h1>
-        <a href="https://adholibdh.github.io/dh2019-preconference/">
+        <a href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">
           {{ site.t[page.lang].title }}
         </a>
       </h1>
@@ -37,7 +37,7 @@
       {% for page in pages %}
         <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}
-      </ul>
+
       <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
