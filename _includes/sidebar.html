@@ -32,16 +32,14 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <nav class="sidebar-nav-lang">
+    
+    <!-- <nav class="sidebar-nav-lang">
       {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %}
       {% for page in pages %}
         <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}
-
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
-      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
-    </nav>
+    </nav> -->
+    
     <nav class="sidebar-footer">
       {% include footer.html %}
     </nav>
