@@ -30,7 +30,7 @@ t:
   English:
     title:        'Libraries As Research Partner in Digital Humanities'
     description:  'DH 2019 Pre-conference, The Hague'
-  Español:
-    title:        'Bibliotecas como compañeras en la investigación en humanidades digitales'
-    description:  'DH 2019 Pre-conference, The Hague'
-    home:         index-spa
+  ## Español:
+    ## title:        'Bibliotecas como compañeras en la investigación en humanidades digitales'
+    ## description:  'DH 2019 Pre-conference, The Hague'
+    ## home:         index-spa
