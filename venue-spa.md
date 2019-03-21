@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Venue and Transportation
+title: Sede y transporte
 menu: true
 order: 1
-lang: English
+lang: Spanish
 ref: venue
-permalink: /venue
+permalink: /venue-spa
 ---
 
 La pre-conferencia del Grupo de Intéres (SIG por sus siglas en inglés) de Bibliotecas y Humanidades Digitales. que se hace en el marco del DH2019, **se celebrará en la Biblioteca Nacional KB de los Países Bajos en La Haya**.
