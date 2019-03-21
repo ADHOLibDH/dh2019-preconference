@@ -13,7 +13,7 @@ Invitamos a presentar trabajos breves, charlas relámpago, paneles y talleres so
 * Construcción y mantenimiento de infraestructuras técnicas.
 * Construcción y mantenimiento de laboratorios de bibliotecas.
 * Compromisos y políticas organizacionales sostenibles.
-* Desarrollo de habilidades del personal (al estilo de las "[https://carpentries.org/about/](carpinterías)"; es decir de las comunidades de instructores y simpatizantes que comparten la misión de enseñar habilidades básicas de computación y ciencia de datos a los investigadores).
+* Desarrollo de habilidades del personal (al estilo de las "[carpinterías](https://carpentries.org/about/)"; es decir de las comunidades de instructores y simpatizantes que comparten la misión de enseñar habilidades básicas de computación y ciencia de datos a los investigadores).
 * Precarización del trabajo / ausencia de créditos
 * Construcción de puentes de colaboración
 
