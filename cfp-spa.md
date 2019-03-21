@@ -19,13 +19,13 @@ Invitamos a presentar trabajos breves, charlas relámpago, paneles y talleres so
 
 Tipo de presentaciones:
 
-** Presentaciones breves ** permiten a los participantes compartir proyectos o un trabajo más establecido en una breve presentación de 15 minutos dentro de una sesión paralela.
+**Presentaciones breves** permiten a los participantes compartir proyectos o un trabajo más establecido en una breve presentación de 15 minutos dentro de una sesión paralela.
 
-** Las charlas relámpago ** permiten a los participantes compartir ideas, proyectos recientes o trabajos en curso en una breve presentación plenaria de tres minutos.
+**Las charlas relámpago** permiten a los participantes compartir ideas, proyectos recientes o trabajos en curso en una breve presentación plenaria de tres minutos.
 
-** Los talleres ** están destinados a un público más pequeño (10 a 20 participantes) y deben ser de naturaleza interactiva o práctica. Pueden ser de 60 o 90 minutos.
+**Los talleres** están destinados a un público más pequeño (10 a 20 participantes) y deben ser de naturaleza interactiva o práctica. Pueden ser de 60 o 90 minutos.
 
-** Paneles con múltiples presentaciones ** permiten a los panelistas y participantes discutir un tema en particular con más detalle. Los paneles deben constar de un máximo de 5 personas y formarán parte de una sesión paralela. Pueden ser de 60 o 90 minutos.
+**Paneles con múltiples presentaciones** permiten a los panelistas y participantes discutir un tema en particular con más detalle. Los paneles deben constar de un máximo de 5 personas y formarán parte de una sesión paralela. Pueden ser de 60 o 90 minutos.
 
 Además, invitamos a bibliotecas y organizaciones relacionadas con organizaciones de patrimonio cultural a presentar su trabajo en un "mercado" que estará abierto durante los recesos. Para participar, envíe una breve descripción de su organización a lotte.wilms [at] kb.nl. A todos los asistentes al mercado se les pedirá que presenten su "stand" en una plenaria de charlas relámpago. Tenga en cuenta que el espacio es limitado.
 
@@ -44,13 +44,13 @@ Los organizadores están trabajando para que este evento sea virtualmente accesi
 Envíe su propuesta antes de la fecha límite a través de este formulario (en inglés): [http://bit.ly/dhlibcfp](http://bit.ly/dhlibcfp)
 
 ### Línea de tiempo
-** Fecha límite para presentar propuestas: ** 01-05-2019 23:59 CET
+**Fecha límite para presentar propuestas:** 01-05-2019 23:59 CET
 
-** Notificación de aceptación: ** 24-05-2019
+**Notificación de aceptación:** 24-05-2019
 
 ### Contacto
 Si tiene preguntas sobre el programa, comuníquese con Sarah Potvin (spotvin [at] library.tamu.edu)
 
 Si tiene preguntas sobre la organización local, comuníquese con Lotte Wilms (lotte.wilms [at] kb.nl)
 
-<sup>Traducción de Silvia Gutiérrez (@espejolento)[https://twitter.com/espejolento]</sup>
+>>Traducción de Silvia Gutiérrez (@espejolento)[https://twitter.com/espejolento]
