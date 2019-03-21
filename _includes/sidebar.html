@@ -33,12 +33,12 @@
       {% endfor %}
     </nav>
     
-    <!-- <nav class="sidebar-nav-lang">
+    <nav class="sidebar-nav-lang">
       {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %}
       {% for page in pages %}
         <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}
-    </nav> -->
+    </nav>
     
     <nav class="sidebar-footer">
       {% include footer.html %}
