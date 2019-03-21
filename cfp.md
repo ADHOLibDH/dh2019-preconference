@@ -24,7 +24,7 @@ We invite short papers, lightning talks, panels, and interactive sessions on the
 
 **Panel sessions** allow panelists and participants to discuss a certain topic in more detail. Panels should consist of a maximum of 5 people and will be part of a parallel session. They can be either 60 or 90 minutes.
 
-In addition,  we invite library and CHO-related organisations to present their work at a market place during the breaks.. To participate, please send a short description of your organisation to lotte.wilms[at]kb.nl. All market place attendees will be asked to present their stand in a plenary lightning talk. Please note that space is limited.
+In addition,  we invite library and CHO-related organisations to present their work at a market place during the breaks. To participate, please send a short description of your organisation to lotte.wilms[at]kb.nl. All market place attendees will be asked to present their stand in a plenary lightning talk. Please note that space is limited.
 
 ### Submission of proposals
 Submissions should include the following:
