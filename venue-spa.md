@@ -3,14 +3,14 @@ layout: page
 title: Sede y transporte
 menu: true
 order: 1
-lang: Spanish
+lang: Español
 ref: venue
 permalink: /venue-spa
 ---
 
 La pre-conferencia del Grupo de Intéres (SIG por sus siglas en inglés) de Bibliotecas y Humanidades Digitales. que se hace en el marco del DH2019, **se celebrará en la Biblioteca Nacional KB de los Países Bajos en La Haya**.
 
-![](./assets/img/image1.png)
+![](../assets/img/image1.png)
 
 ### Sede
 La KB es una biblioteca de investigación con una amplia colección en los campos de historia, cultura y sociedad holandesas. Como biblioteca nacional su objetivo es recopilar y almacenar todas las publicaciones (digitales) que se publican en los Países Bajos, así como una parte de las publicaciones internacionales sobre los Países Bajos.
