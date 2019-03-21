@@ -53,4 +53,4 @@ Si tiene preguntas sobre el programa, comuníquese con Sarah Potvin (spotvin [at
 
 Si tiene preguntas sobre la organización local, comuníquese con Lotte Wilms (lotte.wilms [at] kb.nl)
 
-<sup>Traducción de Silvia Gutiérrez (@https://twitter.com/espejolento)[espejolento]</sup>
+<sup>Traducción de Silvia Gutiérrez (@espejolento)[https://twitter.com/espejolento]</sup>
