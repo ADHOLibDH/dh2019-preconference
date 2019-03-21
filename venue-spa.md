@@ -8,21 +8,22 @@ ref: venue
 permalink: /venue
 ---
 
-The DH2019 Library and DH-SIG pre-conference takes place in the KB national library of the Netherlands in the Hague.
+La pre-conferencia del Grupo de Intéres (SIG por sus siglas en inglés) de Bibliotecas y Humanidades Digitales. que se hace en el marco del DH2019, **se celebrará en la Biblioteca Nacional KB de los Países Bajos en La Haya**.
 
 ![](./assets/img/image1.png)
 
-### Venue
-The KB is a research library with a broad collection in the fields of Dutch history, culture and society. As a national library we aim to collect and store all (digital) publications that appear in the Netherlands, as well as a part of the international publications about the Netherlands.
+### Sede
+La KB es una biblioteca de investigación con una amplia colección en los campos de historia, cultura y sociedad holandesas. Como biblioteca nacional su objetivo es recopilar y almacenar todas las publicaciones (digitales) que se publican en los Países Bajos, así como una parte de las publicaciones internacionales sobre los Países Bajos.
 
-The KB has planned to have digitised and OCRed its entire collection of books, periodicals and newspapers from 1470 onward by the year 2030. Over 70 million book, newspaper and magazine pages are currently available via the search portal delpher.nl and dbnl.org, but we also offer born digital collections, such as our web archive, which contains 33 TB of data and consist of more than 13.000 websites. In 2013, the KB has set up the KB Lab for experiments with the digital collection within the digital humanities: lab.kb.nl
+El KB ha planeado digitalizar y aplicar OCR a su colección completa de libros, publicaciones periódicas y periódicos a partir de 1470 en adelante para el año 2030. Más de 70 millones de páginas de libros, periódicos y revistas están disponibles actualmente a través del portal de búsqueda [delpher.nl](delpher.nl) y [dbnl.org](dbnl.org); también ofrece colecciones digitales nativas, como su archivo web, que contiene 33 TB de datos y consta de más de 13,000 sitios web. En 2013, la KB ha configurado el KB Lab para experimentos con la colección digital dentro de las humanidades digitales: [lab.kb.nl](lab.kb.nl)
 
-### Transportation
-The local organisers are happy to accommodate all participants by arranging transportation from Utrecht to the Hague by bus. This is included in the registration costs. More information about the schedule and exact location will be published on this website.
+### Transporte
+Los organizadores locales se complacen en acomodar a todos los participantes al organizar el transporte desde Utrecht a La Haya en autobús. Esto está incluido en los costos de registro. Se publicará más información sobre el horario y la ubicación exacta en este sitio web.
 
-The library is situated next to the central train station in the Hague. Should you prefer to arrange your own travel, please see [https://www.kb.nl/en/visitors/address-and-directions](https://www.kb.nl/en/visitors/address-and-directions) for directions. For the train schedule and how to purchase train tickets please see [https://www.ns.nl/en](https://www.ns.nl/en).
+La biblioteca está situada junto a la estación central de trenes de La Haya. Si prefiere organizar su propio viaje, consulte [https://www.kb.nl/en/visitors/address-and-directions](https://www.kb.nl/en/visitors/address-and -direcciones) para obtener direcciones. Para obtener información sobre el horario del tren y cómo comprar los boletos de tren, consulte [https://www.ns.nl/en](https://www.ns.nl/en).
 
-### Contact
-For questions regarding the programme, please contact Sarah Potvin (spotvin[at]library.tamu.edu)
+### Contacto
+Si tiene preguntas sobre el programa, comuníquese con Sarah Potvin (spotvin [at] library.tamu.edu)
 
-For questions regarding the local organization, please contact Lotte Wilms (lotte.wilms[at]kb.nl)
+Si tiene preguntas sobre la organización local, comuníquese con Lotte Wilms (lotte.wilms [at] kb.nl)
+
