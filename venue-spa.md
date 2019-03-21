@@ -20,7 +20,7 @@ El KB ha planeado digitalizar y aplicar OCR a su colección completa de libros, 
 ### Transporte
 Los organizadores locales se complacen en acomodar a todos los participantes al organizar el transporte desde Utrecht a La Haya en autobús. Esto está incluido en los costos de registro. Se publicará más información sobre el horario y la ubicación exacta en este sitio web.
 
-La biblioteca está situada junto a la estación central de trenes de La Haya. Si prefiere organizar su propio viaje, consulte [https://www.kb.nl/en/visitors/address-and-directions](https://www.kb.nl/en/visitors/address-and -direcciones) para obtener direcciones. Para obtener información sobre el horario del tren y cómo comprar los boletos de tren, consulte [https://www.ns.nl/en](https://www.ns.nl/en).
+La biblioteca está situada junto a la estación central de trenes de La Haya. Si prefiere organizar su propio viaje, consulte [https://www.kb.nl/en/visitors/address-and-directions](https://www.kb.nl/en/visitors/address-and-directions) para obtener direcciones. Para obtener información sobre el horario del tren y cómo comprar los boletos de tren, consulte [https://www.ns.nl/en](https://www.ns.nl/en).
 
 ### Contacto
 Si tiene preguntas sobre el programa, comuníquese con Sarah Potvin (spotvin [at] library.tamu.edu)
