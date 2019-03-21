@@ -41,7 +41,7 @@ La pre-conferencia se llevará a cabo **fuera de la sede del DH2019**. Ésta ten
 
 Los organizadores están trabajando para que este evento sea virtualmente accesible a través de livestream, la grabación de las sesiones y compartiendo diapositivas y otros materiales de investigación. Si su presenteción o taller es seleccionada, el o la solicitante acepta depositar las diapositivas utilizadas en la presentación. Si la presentación se lleva a cabo en el auditorio principal, el presentador aparecerá en una transmisión en vivo. Si prefiere no ser filmado, indíquelo en su resumen.
 
-Envíe su propuesta antes de la fecha límite a través de este formulario: [http://bit.ly/dhlibcfp](http://bit.ly/dhlibcfp)
+Envíe su propuesta antes de la fecha límite a través de este formulario (en inglés): [http://bit.ly/dhlibcfp](http://bit.ly/dhlibcfp)
 
 ### Línea de tiempo
 ** Fecha límite para presentar propuestas: ** 01-05-2019 23:59 CET
