@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Convocatoria de resúmenes
+title: Convocatoria 
 menu: true
 order: 1
 lang: Español
