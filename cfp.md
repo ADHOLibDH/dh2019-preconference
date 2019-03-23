@@ -33,7 +33,7 @@ Submissions should include the following:
 * For panel sessions: General abstract (300-500 words) outlining the proposed discussion, description of panelists
 Contact info and a short description of research interests of the authors.
 
-The pre-conference will be held off-site in the KB National Library of the Netherlands. Transportation to and from Utrecht to The Hague will be arranged for participants. By submitting an abstract, authors agree that at least one presenter will be present in person or via remote access according to the ADHO guidelines for remote presentations. Abstracts and papers/sessions are accepted in all official ADHO languages (English, Spanish, German, French, and Italian). However, no translation services will be in place during the event.
+The pre-conference will be held off-site in the KB National Library of the Netherlands. Transportation to and from Utrecht to The Hague will be arranged for participants. By submitting an abstract, authors agree that at least one presenter will be present in person or via remote access according to the [ADHO guidelines for remote presentations](https://dh2019.adho.org/guidelines/guidelines-for-presenters/). Abstracts and papers/sessions are accepted in all official ADHO languages (English, Spanish, German, French, and Italian). However, no translation services will be in place during the event.
 
 The organisers are working to make this event virtually accessible via livestream, recording, and sharing of slides and other research materials. If accepted, the applicant agrees to deposit any slides used in the presentation. If the presentation is held in the main auditorium, the presenter will appear in a livestream. Should you prefer not to be filmed, please indicate this in your abstract.
 
