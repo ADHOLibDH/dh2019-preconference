@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: Call for Abstracts
 menu: true
@@ -37,7 +37,7 @@ The pre-conference will be held off-site in the KB National Library of the Nethe
 
 The organisers are working to make this event virtually accessible via livestream, recording, and sharing of slides and other research materials. If accepted, the applicant agrees to deposit any slides used in the presentation. If the presentation is held in the main auditorium, the presenter will appear in a livestream. Should you prefer not to be filmed, please indicate this in your abstract.
 
-Please submit your proposal before the deadline via this form: [http://bit.ly/dhlibcfp](http://bit.ly/dhlibcfp)
+The call for proposals is now closed. Thank you for your interest. 
 
 ### Timeline
 **Deadline for proposals:** 01-05-2019 23:59 CET
