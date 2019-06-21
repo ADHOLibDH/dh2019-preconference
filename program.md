@@ -14,9 +14,9 @@ permalink: /program
 
 9:30-9:45: Welcome
 
-9:45-10:30: [Keynote: Emmanuelle Bermès, Bibliothèque nationale de France]({{ site.baseurl }}/keynote/)
+9:45-10:30: [Keynote: Emmanuelle Bermès, Bibliothèque nationale de France]({{ site.baseurl }}/keynote)
 
-10:30-10:45: [Lightning Talks 1: Marketplace]({{ site.baseurl }}/marketplace/)
+10:30-10:45: [Lightning Talks 1: Marketplace]({{ site.baseurl }}/marketplace)
 
 10:45-11:15: Break
 
