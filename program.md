@@ -16,7 +16,7 @@ permalink: /program
 
 **9:30-9:45**: Welcome *(Visboekzaal B)*
 
-**9:45-10:30**: [Opening keynote: "Collections, Data, Research: perspectives at the national library of France," Emmanuelle Bermès, Bibliothèque nationale de France]() *(Visboekzaal B)*
+**9:45-10:30**: [Opening keynote: "Collections, Data, Research: perspectives at the national library of France," Emmanuelle Bermès, Bibliothèque nationale de France]( {{ site.baseurl }}/keynote) *(Visboekzaal B)*
 
 **10:30-10:45**: [Lightning Talks 1: Marketplace]() *(Visboekzaal - B)*
 * Glen Worthy, Chair
