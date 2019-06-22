@@ -38,7 +38,7 @@ permalink: /program
 * *Next Generation of Scalable and Sustainable DH Services*, Coble (USA)
 * *Forschungspartnerschaften zu welchem Preis?*, Jesko Reiling (Switzerland)
 
-[1B Workshop: Social Networks and Archival Context Cooperative (SNAC) and the Role of Cultural Heritage Members]() *(Gruuthuse - A)*
+[1B Workshop: Social Networks and Archival Context Cooperative (SNAC) and the Role of Cultural Heritage Members]({{ site.baseurl }}/workshop) *(Gruuthuse - A)*
 
 **12:45-13:45**: Lunch
 
