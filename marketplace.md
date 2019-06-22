@@ -7,17 +7,19 @@ lang: English
 ref: marketplace
 permalink: /marketplace
 ---
-DARIAH  
+*Glen Worthy, Chair*
+
+#### DARIAH  
 *Sally Chambers*
 
-CERL  
+#### CERL  
 *Marian Lefferts*
 
-IFLA Digital Humanities - Digital Scholarship Special Interest Group  
+#### IFLA Digital Humanities - Digital Scholarship Special Interest Group  
 *Xuemao Wang (University of Cincinnati, United States)*
 
-CLARIN & research libraries: a very short introduction  
-Leon Wessels (CLARIN ERIC / Utrecht University, Netherlands)
+#### CLARIN & research libraries: a very short introduction  
+*Leon Wessels (CLARIN ERIC / Utrecht University, Netherlands)*
 
 Short abstract:  
 This presentation introduces the European Research Infrastructure CLARIN, its partnerships with research libraries and invites you to discuss potential future collaboration.
