@@ -9,9 +9,9 @@ permalink: /lightning
 ---
 #### Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions
 
-*Dolores Romero-López (Universidad Complutense, Spain)*<br/>
-*José Luis Bueren Gómez-Acebo (Biblioteca Nacional de España, Spain)*  
-*Lucía Cotarelo Esteban (Universidad Complutense de Madrid, Spain)*  
+*Dolores Romero-López (Universidad Complutense, Spain)*  
+*José Luis Bueren Gómez-Acebo (Biblioteca Nacional de España, Spain)*\
+*Lucía Cotarelo Esteban (Universidad Complutense de Madrid, Spain)*
 
 ##### Short abstract:
 Mnemosine is a digital library for Spanish rare and forgotten literary texts (1868-1936). Its objective is to model data to create the digital history.
