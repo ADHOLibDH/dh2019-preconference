@@ -29,7 +29,7 @@ permalink: /program
 
 **11:15-12:45**: Morning Workshop + Short Paper Breakout Sessions
 
-[1A Short Papers: Cooperative DH]() *(Visboekzaal B)*
+[1A Short Papers: Cooperative DH]({{ site.baseurl }}/short1A) *(Visboekzaal B)*
 * Zoe Borovsky, Chair
 * *Finding new environments for cooperation with digital research and new values for heritage collections: experiences at the National Library of Spain*, Sánchez Nogales (Spain)
 * *Growing an international Cultural Heritage Labs community*, Chambers (Belgium)
