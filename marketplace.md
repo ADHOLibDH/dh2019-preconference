@@ -9,12 +9,12 @@ permalink: /marketplace
 ---
 
 
-Wessels (Netherlands) - CLARIN & research libraries: a very short introduction
+*Glen Worthy, Chair*
 
-DARIAH
+**CLARIN & research libraries: a very short introduction**, Leon Wessels (Netherlands)
 
-CERL
+**DARIAH**, Sally Chambers
 
-Library Carpentry?
+**CERL**, Marian Lefferts
 
-IFLA SIG DH?
+**IFLA SIG DH**, Xuemao Wang
