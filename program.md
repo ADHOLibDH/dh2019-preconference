@@ -18,7 +18,7 @@ permalink: /program
 
 **9:45-10:30**: [Opening keynote: "Collections, Data, Research: perspectives at the national library of France," Emmanuelle Bermès, Bibliothèque nationale de France]( {{ site.baseurl }}/keynote) *(Visboekzaal B)*
 
-**10:30-10:45**: Marketplace Lightning Talks *(Visboekzaal - B)*
+**10:30-10:45**: [Marketplace Lightning Talks]({{ site.baseurl }}/marketplace) *(Visboekzaal - B)*
 * *Glen Worthy, Chair*
 * CLARIN & research libraries: a very short introduction, Leon Wessels (Netherlands)
 * DARIAH, Sally Chambers
