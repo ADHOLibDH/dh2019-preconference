@@ -16,7 +16,7 @@ permalink: /program
 
 **9:30-9:45**: Welcome *(Visboekzaal B)*
 
-**9:45-10:30**: [Keynote: Emmanuelle Bermès, Bibliothèque nationale de France]() *(Visboekzaal B)*
+**9:45-10:30**: [Opening keynote: "Collections, Data, Research: perspectives at the national library of France," Emmanuelle Bermès, Bibliothèque nationale de France]() *(Visboekzaal B)*
 
 **10:30-10:45**: [Lightning Talks 1: Marketplace]() *(Visboekzaal - B)*
 * Glen Worthy, Chair
@@ -27,9 +27,9 @@ permalink: /program
 
 **10:45-11:15**: Break *(Foyer)*
 
-**11:15-12:45**:
+**11:15-12:45**: Morning Workshop + Short Paper Breakout Sessions
 
-[Short Papers: Cooperative DH]() *(Visboekzaal B)*
+[1A Short Papers: Cooperative DH]() *(Visboekzaal B)*
 * Zoe Borovsky, Chair
 * *Finding new environments for cooperation with digital research and new values for heritage collections: experiences at the National Library of Spain*, Sánchez Nogales (Spain)
 * *Growing an international Cultural Heritage Labs community*, Chambers (Belgium)
@@ -38,20 +38,20 @@ permalink: /program
 * *Next Generation of Scalable and Sustainable DH Services*, Coble (USA)
 * *Forschungspartnerschaften zu welchem Preis?*, Jesko Reiling (Switzerland)
 
-[Workshop: Social Networks and Archival Context Cooperative (SNAC) and the Role of Cultural Heritage Members]() *(Gruuthuse - A)*
+[1B Workshop: Social Networks and Archival Context Cooperative (SNAC) and the Role of Cultural Heritage Members]() *(Gruuthuse - A)*
 
 **12:45-13:45**: Lunch
 
-**13:45-14:45**:
+**13:45-14:45**: Afternoon Short Paper Breakout Sessions
 
-[Short papers: Building DH]()
+[2A Short papers: Building DH]()
 * Zoe Borovsky, Chair
 * *The case for a citation index by the humanities, for the humanities*, Colavizza (Netherlands)
 * *Keyword searchable digital library of Serbian historic newspapers: Building the national infrastructure*, Sofronijevic (Serbia)
 * *Digitizing for impact: from pixels to scholarship*, Shows (USA)
 * *The role of CLARIN and linguistic annotation in the digital transformation in research*, Wynne (UK)
 
-[Short papers: Teaching DH]()
+[2B Short papers: Teaching DH]()
 * Glen Worthy, Chair
 * *Digital Initiatives at the Taylor Institution Library*, Huber (UK)
 * *Bringing coroner’s records to life: a collaboration between the Glucksman Library and faculty to teach digital humanities to fourth-year history students at the University of Limerick*, Mulrennan (Ireland)
@@ -60,7 +60,7 @@ permalink: /program
 
 **14:45-15:15**: Break
 
-**15:15-15:30**: [Lightning Talks 2]()
+**15:15-15:30**: [Lightning Talks]()
 * Glen Worthey (Chair)
 * *Digital Scholarship and Data Provenance at the National Library of Scotland*, Ames (Scotland)
 * *Creating a Collaboration Guidebook for Library Faculty Partnership Success*, Roper (USA)
@@ -68,7 +68,7 @@ permalink: /program
 * *Building and Sustaining Fulcrum: A Digital Publishing Platform for Humanists and Social Scientists*, DiPasquale (USA)
 * *Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions*, Romero-Lopez (Spain)
 
-**15:30-16:15**: [Closing session: Collections as Data, Sarah Potvin (USA)]()
+**15:30-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]()
 
 **16:15-16:30**: Closing remarks
 
