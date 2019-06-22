@@ -18,8 +18,8 @@ permalink: /program
 
 **9:45-10:30**: [Opening keynote: "Collections, Data, Research: perspectives at the national library of France," Emmanuelle Bermès, Bibliothèque nationale de France]( {{ site.baseurl }}/keynote) *(Visboekzaal B)*
 
-**10:30-10:45**: [Lightning Talks 1: Marketplace]() *(Visboekzaal - B)*
-* Glen Worthy, Chair
+**10:30-10:45**: Marketplace Lightning Talks *(Visboekzaal - B)*
+* *Glen Worthy, Chair*
 * CLARIN & research libraries: a very short introduction, Leon Wessels (Netherlands)
 * DARIAH, Sally Chambers
 * CERL, Marian Lefferts
@@ -60,7 +60,7 @@ permalink: /program
 
 **14:45-15:15**: Break
 
-**15:15-15:30**: [Lightning Talks]()
+**15:15-15:30**: [Lightning Talks]( {{ site.baseurl }}/lightning)
 * Glen Worthey (Chair)
 * *Digital Scholarship and Data Provenance at the National Library of Scotland*, Ames (Scotland)
 * *Creating a Collaboration Guidebook for Library Faculty Partnership Success*, Roper (USA)
