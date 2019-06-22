@@ -44,7 +44,7 @@ permalink: /program
 
 **13:45-14:45**: Afternoon Short Paper Breakout Sessions
 
-[2A Short papers: Building DH]()
+[2A Short papers: Building DH]({{ site.baseurl }}/short2A)
 * Zoe Borovsky, Chair
 * *The case for a citation index by the humanities, for the humanities*, Colavizza (Netherlands)
 * *Keyword searchable digital library of Serbian historic newspapers: Building the national infrastructure*, Sofronijevic (Serbia)
