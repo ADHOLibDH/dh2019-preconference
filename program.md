@@ -61,7 +61,7 @@ permalink: /program
 **14:45-15:15**: Break
 
 **15:15-15:30**: [Lightning Talks]( {{ site.baseurl }}/lightning)
-* Glen Worthey (Chair)
+* Glen Worthey, Chair
 * *Digital Scholarship and Data Provenance at the National Library of Scotland*, Ames (Scotland)
 * *Creating a Collaboration Guidebook for Library Faculty Partnership Success*, Roper (USA)
 * *Proyecto de formación de bibliotecarios cubanos para la investigación en Humanidades Digitales*, Roche (Cuba)
