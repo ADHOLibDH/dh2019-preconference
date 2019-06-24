@@ -10,10 +10,12 @@ permalink: /marketplace
 *Glen Worthey, Chair*
 
 #### DARIAH  
-*Sally Chambers*
+*Sally Chambers (Ghent Centre for Digital Humanities, Belgium)*
 
-#### CERL  
-*Marian Lefferts*
+#### CERL: Data for DH at Consortium of European Research Libraries  
+*Marian Lefferts (Consortium of European Research Libraries)*
+
+The Consortium of European Research Libraries (CERL – www.cerl.org) hosts a large number of databases related to early printed books (1450-1850) and manuscripts that are useful for those that study the history and economics of printing, the spread of ideas, or the knowledge networks of a by-gone age. In this presentation, Marian Lefferts, CERL Executive Manager, will give an overview of what is on offer and how you can access the data.
 
 #### IFLA Digital Humanities - Digital Scholarship Special Interest Group  
 *Xuemao Wang (University of Cincinnati, United States)*
