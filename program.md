@@ -10,6 +10,8 @@ permalink: /program
 
 *Abstracts and descriptions coming soon! The schedule is still developing and may change.*
 
+*Presentation materials will be deposited in our [Zenodo community](https://zenodo.org/communities/libraries-as-research-partner-2019/).*
+
 #### Monday, July 8, 2019
 
 **8:30-9:15**: Bus from Utrecht to Den Haag
@@ -66,7 +68,7 @@ permalink: /program
 * *Creating a Collaboration Guidebook for Library Faculty Partnership Success*, O’Brien Roper, McClurken, Lee (USA)
 * *Proyecto de formación de bibliotecarios cubanos para la investigación en Humanidades Digitales (Project proposal for the training of Cuban librarians for Digital Humanities Research)*, Rodríguez Roche (Cuba)
 * *Building and Sustaining Fulcrum: A Digital Publishing Platform for Humanists and Social Scientists*, DiPasquale (USA)
-* *Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions*, Romero-Lopez, Gómez-Acebo, Esteban (Spain)
+* *Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions*, Romero Lopez, Bueren Gómez-Acebo, Cotarelo Esteban (Spain)
 
 **15:30-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]()
 
