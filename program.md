@@ -44,7 +44,7 @@ permalink: /program
 
 **12:45-13:45**: Lunch
 
-**13:45-14:45**: Afternoon Short Paper Breakout Sessions
+**13:45-14:45**: Afternoon Short Paper Breakout Sessions *(Locations TBD)*
 
 [2A Short papers: Construction]({{ site.baseurl }}/short2A)
 * *Zoe Borovsky, Chair*
@@ -62,7 +62,7 @@ permalink: /program
 
 **14:45-15:15**: Break
 
-**15:15-15:30**: [Lightning Talks]( {{ site.baseurl }}/lightning)
+**15:15-15:30**: [Lightning Talks]( {{ site.baseurl }}/lightning) *(Visboekzaal B)*
 * *Glen Worthey, Chair*
 * *Digital Scholarship and Data Provenance at the National Library of Scotland*, Ames (Scotland)
 * *Creating a Collaboration Guidebook for Library Faculty Partnership Success*, O’Brien Roper, McClurken, Lee (USA)
@@ -70,9 +70,9 @@ permalink: /program
 * *Building and Sustaining Fulcrum: A Digital Publishing Platform for Humanists and Social Scientists*, DiPasquale (USA)
 * *Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions*, Romero Lopez, Bueren Gómez-Acebo, Cotarelo Esteban (Spain)
 
-**15:30-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]()
+**15:30-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]() *(Visboekzaal B)*
 
-**16:15-16:30**: Closing remarks
+**16:15-16:30**: Closing remarks *(Visboekzaal B)*
 
 **16:30-17:30**: Drinks/networking (tour of KB)
 
