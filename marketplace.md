@@ -7,7 +7,7 @@ lang: English
 ref: marketplace
 permalink: /marketplace
 ---
-*Glen Worthy, Chair*
+*Glen Worthey, Chair*
 
 #### DARIAH  
 *Sally Chambers*

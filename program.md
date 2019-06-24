@@ -19,7 +19,7 @@ permalink: /program
 **9:45-10:30**: [Opening keynote: "Collections, Data, Research: perspectives at the national library of France," Emmanuelle Bermès, Bibliothèque nationale de France]( {{ site.baseurl }}/keynote) *(Visboekzaal B)*
 
 **10:30-10:45**: [Marketplace Lightning Talks]({{ site.baseurl }}/marketplace) *(Visboekzaal - B)*
-* *Glen Worthy, Chair*
+* *Glen Worthey, Chair*
 * CLARIN & research libraries: a very short introduction, Wessels (Netherlands)
 * DARIAH, Chambers (Belgium)
 * CERL, Lefferts (Netherlands)
@@ -52,7 +52,7 @@ permalink: /program
 * *The role of CLARIN and linguistic annotation in the digital transformation in research*, Wynne (UK)
 
 [2B Short papers: Teaching DH]({{ site.baseurl }}/short2B)
-* Glen Worthy, Chair
+* Glen Worthey, Chair
 * *Digital Initiatives at the Taylor Institution Library*, Huber, Egerton (UK)
 * *Bringing coroner’s records to life: a collaboration between the Glucksman Library and faculty to teach digital humanities to fourth-year history students at the University of Limerick*, Mulrennan, Keogh (Ireland)
 * *Las bibliotecas universitarias, detonante para las Humanidades Digitales dentro y fuera Universidad Autónoma de Querétaro*, Martínez Hernández, Cantor Pérez (Mexico)
