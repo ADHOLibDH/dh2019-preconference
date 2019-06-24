@@ -26,7 +26,7 @@ permalink: /program
 * CERL, Lefferts (Netherlands)
 * IFLA SIG DH, Wang (USA)
 
-**10:45-11:15**: Break *(Foyer)*
+**10:45-11:15**: Break and Marketplace *(Foyer)*
 
 **11:15-12:45**: Morning Workshop + Short Paper Breakout Sessions
 
@@ -40,7 +40,7 @@ permalink: /program
 
 [1B Workshop: Social Networks and Archival Context Cooperative (SNAC) and the Role of Cultural Heritage Members]({{ site.baseurl }}/workshop) *(Gruuthuse - A)*
 
-**12:45-13:45**: Lunch
+**12:45-13:45**: Lunch (with options for Marketplace or 30-minute tour of KB)
 
 **13:45-14:45**: Afternoon Short Paper Breakout Sessions *(Locations TBD)*
 
