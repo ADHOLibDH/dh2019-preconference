@@ -66,7 +66,7 @@ permalink: /program
 * *Building and Sustaining Fulcrum: A Digital Publishing Platform for Humanists and Social Scientists*, DiPasquale (USA)
 * *Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions*, Romero Lopez, Bueren Gómez-Acebo, Cotarelo Esteban (Spain)
 
-**15:35-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]() *(Visboekzaal B)*
+**15:35-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]({{ site.baseurl }}/closing) *(Visboekzaal B)*
 
 **16:15-16:30**: Closing remarks *(Visboekzaal B)*
 
