@@ -8,7 +8,7 @@ ref: lightning
 permalink: /lightning
 ---
 
-*Glen Worthy, Chair*
+*Glen Worthey, Chair*
 
 #### Digital scholarship and data provenance at The National Library of Scotland
 *Sarah Ames (National Library of Scotland)*
