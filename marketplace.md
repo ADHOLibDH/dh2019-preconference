@@ -12,6 +12,8 @@ permalink: /marketplace
 #### DARIAH  
 *Sally Chambers (Ghent Centre for Digital Humanities, Belgium)*
 
+Abstract TK
+
 #### CERL: Data for DH at Consortium of European Research Libraries  
 *Marian Lefferts (Consortium of European Research Libraries)*
 
@@ -19,6 +21,8 @@ The Consortium of European Research Libraries (CERL – www.cerl.org) hosts a la
 
 #### IFLA Digital Humanities - Digital Scholarship Special Interest Group  
 *Xuemao Wang (University of Cincinnati, United States)*
+
+Abstract TK
 
 #### CLARIN & research libraries: a very short introduction  
 *Leon Wessels (CLARIN ERIC / Utrecht University, Netherlands)*
