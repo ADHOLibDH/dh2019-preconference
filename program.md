@@ -12,6 +12,8 @@ permalink: /program
 
 *Presentation materials will be deposited in our [Zenodo community](https://zenodo.org/communities/libraries-as-research-partner-2019/). Sessions in Visboekzaal - B will be livestreamed and recorded - additional information coming soon.*
 
+#LibDH2019
+
 #### Monday, July 8, 2019
 
 **8:30-9:15**: Bus from Utrecht to Den Haag
