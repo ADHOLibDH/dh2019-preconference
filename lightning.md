@@ -25,6 +25,34 @@ This lightning talk will consider the importance of data provenance and discuss 
 
 This ties in to the new responsibilities of libraries as we produce our own collections: with digitisation programmes creating not only OCRed text, but also additional data from scanners, software and digital production tools, transparency about our data creation processes become important. Enabling readers to contextualise the data creation process aligns libraries with the need for reproducible and authentic data, and ensures that we do not preclude some forms of research.
 
+#### Data stewardship on the map: A study of tasks and roles in Dutch research institutes
+
+*Melanie Imming (Het Landelijk Coördinatiepunt Research Data Management / Dutch National Contact Point Research Data Management)*
+
+Short abstract:
+The Dutch LCRDM has delivered a report: 'Data stewardship on the map’ which provides a basis for clearer job descriptions in the different domains.
+
+Long abstract:
+The Datastewardship Task Force of the The National Coordination Point Research Data Management in the Netherlands has recently delivered a report: 'Data stewardship on the map: A study of tasks and roles in Dutch research institutes'. The outcomes of the report are based on different methods, such as a large survey amongst librarians and other RDM specialists. It provides a basis for clearer job descriptions for data steward roles, and some guidance on the implementation of datastewardship. 
+
+KEY FINDINGS
+Key findings of the report are: 
+
+AMBITION
+Datastewardship is high on the agenda. Many institutions are currently working on professionalizing data stewardship but it is under construction everywhere. Often the ambition is to increase the number of data stewards in the near future; in particular the number of data stewards with domain data specific knowledge. 
+
+RECOGNITION
+Everyone who takes on data stewardship tasks should get the correct recognition, including accompanying career perspectives and appropriate training and visibility. Furthermore, RDM should be embedded in the organization and it requires targeted coordination and institution-wide policy.
+
+TASK AREAS INSTEAD OF ROLES
+Although the job titles are very different everywhere, there are clearly identifiable data stewardship tasks. The task areas identified in this report  clearly show the main focus of roles.  However, if new job profiles are drawn up, the recommendation is to keep them broad. The focus  on task areas instead of well-defined job profiles can help in compiling new customized job descriptions.
+
+POOL OF EXPERTS
+There is a lot of enthusiasm in the field for setting up a pool of data stewards, each with their own expertise, as a way to offer the correct (domain-specific) support. 
+
+TRAINING
+Investing in good basic education for data stewards and training programs for continuous training is necessary for a sustainable set-up of data stewardship
+
 #### Creating a Collaboration Guidebook for Library Faculty Partnership Success
 
 *Jennifer O'Brien Roper (University of Virginia Library, United States)*  
