@@ -6,10 +6,9 @@ order:
 lang: English
 ref: closing
 permalink: /closing
+---
 
-Closing Session
-
-###Community before Computing: Reflections on collections as data
+### Community before Computing: Reflections on collections as data
 *Sarah Potvin (Texas A&M University)*
 
 How can collection stewards create and serve computationally-accessible collections as data? How can teachers, researchers, journalists, curators, and others who rely on collections as data find and access this data, and communicate their needs? How can collections as data move beyond large and well-resourced institutions and implementations? The Always Already Computational: Collections as Data project, which ran 2016-2018 with generous support from the Institute of Museum and Library Services’ National Digital Platform grant program, sought to address these - and other - questions while documenting and sharing current and potential approaches to collections as data. Always Already Computational convened two national forums, organized multiple workshops, shared project outcomes in professional conferences, sought broad feedback, and generated a framework comprising nearly a dozen publications meant to guide institutions. In this presentation, Always Already Computational project team member Sarah Potvin will situate and summarize the project’s activities and framework, reflect on its critical emphasis on ‘community’ and ‘computing,’ and invite discussion of persistent questions for collections as data.
