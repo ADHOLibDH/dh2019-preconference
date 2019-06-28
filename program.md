@@ -51,7 +51,7 @@ permalink: /program
 * *Keyword searchable digital library of Serbian historic newspapers: Building the national infrastructure*, Sofronijevic, Šević (Serbia)
 * *The role of CLARIN and linguistic annotation in the digital transformation in research*, Wynne (UK)
 
-[2B Short papers: Teaching]({{ site.baseurl }}/short2B)
+[2B Short papers: Teaching DH]({{ site.baseurl }}/short2B)
 * *Digital Initiatives at the Taylor Institution Library*, Huber, Egerton (UK)
 * *Bringing coroner’s records to life: a collaboration between the Glucksman Library and faculty to teach digital humanities to fourth-year history students at the University of Limerick*, Mulrennan, Keogh (Ireland)
 * *Las bibliotecas universitarias, detonante para las Humanidades Digitales dentro y fuera Universidad Autónoma de Querétaro*, Martínez Hernández, Cantor Pérez (Mexico)
