@@ -29,14 +29,14 @@ permalink: /program
 
 **11:15-12:45**: Morning Workshop + Short Paper Breakout Sessions
 
-[1A Short Papers: Cooperative DH]({{ site.baseurl }}/short1A) *(Visboekzaal B)*
+[1A Short Papers: Designing Fruitful Collaborations]({{ site.baseurl }}/short1A) *(Visboekzaal B)*
 * Zoe Borovsky, Chair
-* *Finding new environments for cooperation with digital research and new values for heritage collections: experiences at the National Library of Spain*, Sánchez Nogales (Spain)
-* *Growing an international Cultural Heritage Labs community*, Chambers (Belgium), Mahey (UK), Gasser (Denmark), Dobreva-McPherson (Qatar), Kokegei (Australia), Potter (USA), Ferriter (USA), Osman (Egypt)
-* *Collaboration with the Researchers: Content, Presentation systems and Techniques*, Pääkkönen, Hakkarainen (Finland)
-* *Partnering up with researchers in a national library*, Kleppe, Claeyssens, Veldhoen, Wilms (Netherlands)
+* *The case for a citation index by the humanities, for the humanities*, Colavizza (Netherlands), Peroni (Italy), Romanello (Switzerland)
+* *Digitizing for impact: from pixels to scholarship*, Shows, Rubinow, Knutzen (USA)
 * *Next Generation of Scalable and Sustainable DH Services*, Coble (USA)
 * *Forschungspartnerschaften zu welchem Preis?*, Reiling (Switzerland)
+* *Collaboration with the Researchers: Content, Presentation systems and Techniques*, Pääkkönen, Hakkarainen (Finland)
+* *Partnering up with researchers in a national library*, Kleppe, Claeyssens, Veldhoen, Wilms (Netherlands)
 
 [1B Workshop: Social Networks and Archival Context Cooperative (SNAC) and the Role of Cultural Heritage Members]({{ site.baseurl }}/workshop) *(Gruuthuse - A)*
 
@@ -44,11 +44,11 @@ permalink: /program
 
 **13:45-14:45**: Afternoon Short Paper Breakout Sessions
 
-[2A Short papers: Building DH]({{ site.baseurl }}/short2A)
+[2A Short papers: National and International Cooperation and Infrastructure]({{ site.baseurl }}/short2A)
 * Zoe Borovsky, Chair
-* *The case for a citation index by the humanities, for the humanities*, Colavizza (Netherlands), Peroni (Italy), Romanello (Switzerland)
+* *Finding new environments for cooperation with digital research and new values for heritage collections: experiences at the National Library of Spain*, Sánchez Nogales (Spain)
+* *Growing an international Cultural Heritage Labs community*, Chambers (Belgium), Mahey (UK), Gasser (Denmark), Dobreva-McPherson (Qatar), Kokegei (Australia), Potter (USA), Ferriter (USA), Osman (Egypt)
 * *Keyword searchable digital library of Serbian historic newspapers: Building the national infrastructure*, Sofronijevic, Šević (Serbia)
-* *Digitizing for impact: from pixels to scholarship*, Shows, Rubinow, Knutzen (USA)
 * *The role of CLARIN and linguistic annotation in the digital transformation in research*, Wynne (UK)
 
 [2B Short papers: Teaching DH]({{ site.baseurl }}/short2B)
