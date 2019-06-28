@@ -23,7 +23,6 @@ permalink: /program
 * CLARIN & research libraries: a very short introduction, Wessels (Netherlands)
 * DARIAH, Chambers (Belgium)
 * CERL, Lefferts (Netherlands)
-* IFLA SIG DH, Wang (USA)
 
 **10:45-11:15**: Break *(Foyer)*
 
