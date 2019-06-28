@@ -12,6 +12,8 @@ permalink: /program
 
 *Presentation materials will be deposited in our [Zenodo community](https://zenodo.org/communities/libraries-as-research-partner-2019/). Sessions in Visboekzaal - B will be livestreamed and recorded - additional information coming soon.*
 
+#LibDH2019
+
 #### Monday, July 8, 2019
 
 **8:30-9:15**: Bus from Utrecht to Den Haag
@@ -21,12 +23,11 @@ permalink: /program
 **9:45-10:30**: [Opening keynote: "Collections, Data, Research: perspectives at the national library of France," Emmanuelle Bermès, Bibliothèque nationale de France]( {{ site.baseurl }}/keynote) *(Visboekzaal B)*
 
 **10:30-10:45**: [Marketplace Lightning Talks]({{ site.baseurl }}/marketplace) *(Visboekzaal - B)*
-* *Glen Worthey, Chair*
 * CLARIN & research libraries: a very short introduction, Wessels (Netherlands)
 * DARIAH, Chambers (Belgium)
 * CERL, Lefferts (Netherlands)
 
-**10:45-11:15**: Break *(Foyer)*
+**10:45-11:15**: Break and Marketplace *(Foyer)*
 
 **11:15-12:45**: Morning Workshop + Short Paper Breakout Sessions
 
@@ -41,7 +42,7 @@ permalink: /program
 
 [1B Workshop: Social Networks and Archival Context Cooperative (SNAC) and the Role of Cultural Heritage Members]({{ site.baseurl }}/workshop) *(Gruuthuse - A)*
 
-**12:45-13:45**: Lunch
+**12:45-13:45**: Lunch (with options for Marketplace or 30-minute tour of KB)
 
 **13:45-14:45**: Afternoon Short Paper Breakout Sessions *(Locations TBD)*
 
@@ -53,7 +54,6 @@ permalink: /program
 * *The role of CLARIN and linguistic annotation in the digital transformation in research*, Wynne (UK)
 
 [2B Short papers: Teaching]({{ site.baseurl }}/short2B)
-* *Glen Worthey, Chair*
 * *Digital Initiatives at the Taylor Institution Library*, Huber, Egerton (UK)
 * *Bringing coroner’s records to life: a collaboration between the Glucksman Library and faculty to teach digital humanities to fourth-year history students at the University of Limerick*, Mulrennan, Keogh (Ireland)
 * *Las bibliotecas universitarias, detonante para las Humanidades Digitales dentro y fuera Universidad Autónoma de Querétaro*, Martínez Hernández, Cantor Pérez (Mexico)
@@ -61,15 +61,15 @@ permalink: /program
 
 **14:45-15:15**: Break
 
-**15:15-15:30**: [Lightning Talks]( {{ site.baseurl }}/lightning) *(Visboekzaal B)*
-* *Glen Worthey, Chair*
+**15:15-15:35**: [Lightning Talks]( {{ site.baseurl }}/lightning) *(Visboekzaal B)*
 * *Digital Scholarship and Data Provenance at the National Library of Scotland*, Ames (Scotland)
+* *Data stewardship on the map: A study of tasks and roles in Dutch research institutes*, Imming (Netherlands)
 * *Creating a Collaboration Guidebook for Library Faculty Partnership Success*, O’Brien Roper, McClurken, Lee (USA)
 * *Proyecto de formación de bibliotecarios cubanos para la investigación en Humanidades Digitales (Project proposal for the training of Cuban librarians for Digital Humanities Research)*, Rodríguez Roche (Cuba)
 * *Building and Sustaining Fulcrum: A Digital Publishing Platform for Humanists and Social Scientists*, DiPasquale (USA)
 * *Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions*, Romero Lopez, Bueren Gómez-Acebo, Cotarelo Esteban (Spain)
 
-**15:30-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]() *(Visboekzaal B)*
+**15:35-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]({{ site.baseurl }}/closing) *(Visboekzaal B)*
 
 **16:15-16:30**: Closing remarks *(Visboekzaal B)*
 
