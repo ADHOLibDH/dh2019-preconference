@@ -8,7 +8,7 @@ ref: workshop
 permalink: /workshop
 ---
 
-*Daniel Pitt (University of Virginia, United States)*  
+*Daniel Pitti (University of Virginia, United States)*  
 *Susan Perdue (University of Virginia, United States)*
 
 Short abstract:  
