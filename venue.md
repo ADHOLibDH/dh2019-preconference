@@ -27,6 +27,12 @@ It is a 10 minute walk to the other side of the train station and the bus will l
 
 [Directions from Tivoli Vredenburg to the bus stop.](https://goo.gl/maps/u4kx8jJKXCj8rXLq5)
 
+![](./assets/img/image3.png)
+*The bus stop on Google Street View (with the NH Hotel in the background)*
+
+![](./assets/img/bus.png)
+*The bus*
+
 #### Train
 The library is situated next to the central train station in the Hague. Should you prefer to arrange your own travel, please see [https://www.kb.nl/en/visitors/address-and-directions](https://www.kb.nl/en/visitors/address-and-directions) for directions. For the train schedule and how to purchase train tickets please see [https://www.ns.nl/en](https://www.ns.nl/en).
 
