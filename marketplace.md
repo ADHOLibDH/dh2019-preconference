@@ -42,7 +42,7 @@ References
 [3.] Memorandum of Understanding between LIBER (Ligue des Bibliothèques Européennes de Recherche) and CLARIN ERIC, https://office.clarin.eu/v/CE-2017-0997-MoU-with-LIBER.pdf.  
 [4.] Twan Goosen and Nuno Freire, ‘Bridging the Europeana and CLARIN infrastructures: Cultural heritage data for the social sciences and humanities’, CLARIN.EU [weblog], 13 September 2017, https://www.clarin.eu/blog/bridging-europeana-and-clarin-infrastructures.
 
-*Marketplace participant, not presenting a lightning talk:
+*Marketplace participant, not presenting a lightning talk:*
 #### An Introduction to IFLA Digital Humanities / Digital Scholarship Special Interest Group  
 *Xuemao Wang (University of Cincinnati, United States)*
 
