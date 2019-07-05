@@ -12,6 +12,8 @@ permalink: /program
 
 *Presentation materials will be deposited in our [Zenodo community](https://zenodo.org/communities/libraries-as-research-partner-2019/). Sessions in Visboekzaal - B will be [livestreamed](https://www.youtube.com/channel/UCWyzf7KYVGojimRC1hL3sBw) and recorded.*
 
+*[Download the full programme as a PDF](https://adholibdh.github.io/dh2019-preconference/assets/pdfs/LibDH2019_Programme.pdf).*
+
 #LibDH2019
 
 #### Monday, July 8, 2019
