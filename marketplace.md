@@ -9,20 +9,15 @@ permalink: /marketplace
 ---
 *Glen Worthey, Chair*
 
-#### DARIAH  
+#### DARIAH: Core communities for collaboration: Libraries, Archives and Museums as essential partners in digital arts and humanities research
 *Sally Chambers (Ghent Centre for Digital Humanities, Belgium)*
 
-Abstract TK
+The mission of DARIAH, the Digital Research Infrastructure for the Arts and Humanities, is to empower research communities with digital methods to create, connect and share knowledge about culture and society. Digital methods are a cornerstone of what we do, ensuring we focus on how technology is transforming not objects, but activities. For us, the digital is not a goal in itself, but a means to explore, discover and grow. Libraries, Archives and Museums are essential partners in this endeavour. DARIAH is committed to continuing to encourage, facilitate and celebrate this collaboration at the core of what we do. In this presentation a number of examples of existing partnerships with cultural heritage communities will be introduced, as well as proposing one or two suggestions for future collaborations. 
 
 #### CERL: Data for DH at Consortium of European Research Libraries  
 *Marian Lefferts (Consortium of European Research Libraries)*
 
 The Consortium of European Research Libraries (CERL – www.cerl.org) hosts a large number of databases related to early printed books (1450-1850) and manuscripts that are useful for those that study the history and economics of printing, the spread of ideas, or the knowledge networks of a by-gone age. In this presentation, Marian Lefferts, CERL Executive Manager, will give an overview of what is on offer and how you can access the data.
-
-#### An Introduction to IFLA Digital Humanities / Digital Scholarship Special Interest Group  
-*Xuemao Wang (University of Cincinnati, United States)*
-
-A global discussion forum to share knowledge, and promote best practices of Digital Scholarship/Digital Humanities among international library communities. For additional information, please visit: https://www.ifla.org/dhds.
 
 #### CLARIN & research libraries: a very short introduction  
 *Leon Wessels (CLARIN ERIC / Utrecht University, Netherlands)*
@@ -46,3 +41,9 @@ References
 [2.] John W. White and Heather Gilbert ed., Laying the Foundation: Digital Humanities in Academic Libraries, vol. 7, Purdue University Press, West Lafayette, Indiana, 2016.  
 [3.] Memorandum of Understanding between LIBER (Ligue des Bibliothèques Européennes de Recherche) and CLARIN ERIC, https://office.clarin.eu/v/CE-2017-0997-MoU-with-LIBER.pdf.  
 [4.] Twan Goosen and Nuno Freire, ‘Bridging the Europeana and CLARIN infrastructures: Cultural heritage data for the social sciences and humanities’, CLARIN.EU [weblog], 13 September 2017, https://www.clarin.eu/blog/bridging-europeana-and-clarin-infrastructures.
+
+*Marketplace participant, not presenting a lightning talk:
+#### An Introduction to IFLA Digital Humanities / Digital Scholarship Special Interest Group  
+*Xuemao Wang (University of Cincinnati, United States)*
+
+A global discussion forum to share knowledge, and promote best practices of Digital Scholarship/Digital Humanities among international library communities. For additional information, please visit: https://www.ifla.org/dhds.
