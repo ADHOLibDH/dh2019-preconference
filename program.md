@@ -59,7 +59,7 @@ permalink: /program
 
 **14:45-15:15**: Break
 
-**15:15-15:35**: [Lightning Talks]( {{ site.baseurl }}/lightning) *(Visboekzaal B)*
+**15:15-15:30**: [Lightning Talks]( {{ site.baseurl }}/lightning) *(Visboekzaal B)*
 * *Digital Scholarship and Data Provenance at the National Library of Scotland*, Ames (Scotland)
 * *Data stewardship on the map: A study of tasks and roles in Dutch research institutes*, Imming (Netherlands)
 * *Creating a Collaboration Guidebook for Library Faculty Partnership Success*, O’Brien Roper, McClurken, Lee (USA)
@@ -67,7 +67,7 @@ permalink: /program
 * *Building and Sustaining Fulcrum: A Digital Publishing Platform for Humanists and Social Scientists*, DiPasquale (USA)
 * *Mnemosyne, Digital Library for Rare and Forgotten Texts (1868-1936): Collections and digital editions*, Romero Lopez, Bueren Gómez-Acebo, Cotarelo Esteban (Spain)
 
-**15:35-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]({{ site.baseurl }}/closing) *(Visboekzaal B)*
+**15:30-16:15**: [Closing session: “Community before Computing,” Sarah Potvin, Texas A&M University (USA)]({{ site.baseurl }}/closing) *(Visboekzaal B)*
 
 **16:15-16:30**: Closing remarks *(Visboekzaal B)*
 
