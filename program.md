@@ -10,7 +10,7 @@ permalink: /program
 
 *Please note that the schedule is still developing and may change.*
 
-*Presentation materials will be deposited in our [Zenodo community](https://zenodo.org/communities/libraries-as-research-partner-2019/). Sessions in Visboekzaal - B will be livestreamed and recorded - additional information coming soon.*
+*Presentation materials will be deposited in our [Zenodo community](https://zenodo.org/communities/libraries-as-research-partner-2019/). Sessions in Visboekzaal - B will be [livestreamed](https://www.youtube.com/channel/UCWyzf7KYVGojimRC1hL3sBw) and recorded.*
 
 #LibDH2019
 
