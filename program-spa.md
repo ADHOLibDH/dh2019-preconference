@@ -9,7 +9,7 @@ permalink: /program-spa
 ---
 
 
-* Los materiales de las presentaciones se depositarán en nuestra [comunidad Zenodo](https://zenodo.org/communities/libraries-as-research-partner-2019/). Las sesiones en la sala "Visboekzaal - B" serán [transmitidas en vivo(https://www.youtube.com/channel/UCWyzf7KYVGojimRC1hL3sBw) y grabadas. *
+* Los materiales de las presentaciones se depositarán en nuestra [comunidad Zenodo](https://zenodo.org/communities/libraries-as-research-partner-2019/). Las sesiones en la sala "Visboekzaal - B" serán [transmitidas en vivo](https://www.youtube.com/channel/UCWyzf7KYVGojimRC1hL3sBw) y grabadas. *
 
 * [Descargue el programa completo en PDF (en inglés)](https://adholibdh.github.io/dh2019-preconference/assets/pdfs/LibDH2019_Programme.pdf). *
 
