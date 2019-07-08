@@ -75,4 +75,5 @@ permalink: /program-spa
 **16: 30-17: 30**: Bebidas / redes (recorrido de KB)
 
 **17: 30-18: 15**: Autobús de La Haya a Utrecht
+
 **17: 30-18: 15**: Autobús de La Haya a Utrecht
