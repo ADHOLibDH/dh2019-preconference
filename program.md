@@ -8,7 +8,7 @@ ref: program
 permalink: /program
 ---
 
-*The Libraries as Research Partners in Digital Humanities pre-conference to Digital Humanities 2019 was held on July 8, 2019*
+*The Libraries as Research Partners in Digital Humanities pre-conference to [Digital Humanities 2019] (https://dh2019.adho.org/) was held on July 8, 2019.*
 
 *Presentation materials (including slides, notes, and prerecorded remote presentations) were deposited in our [Zenodo community](https://zenodo.org/communities/libraries-as-research-partner-2019/). Sessions in Visboekzaal - B were livestreamed and [recorded] (https://www.youtube.com/playlist?list=PLw1TV8ZWA2CCfZ2S8xgWgEKHDKLGkGtSy).*
 
